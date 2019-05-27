@@ -29,7 +29,7 @@
         android:orientation="vertical"
         android:padding="20dp">
 
-        <!--<ImageView
+        <ImageView
             android:id="@+id/person_1_img"
             android:layout_width="250dp"
             android:layout_height="250dp"
@@ -38,7 +38,7 @@
             android:background="@drawable/developer1"
             android:minWidth="1dp"
             android:minHeight="1dp"
-            android:layout_marginLeft="55dp"/>-->
+            android:layout_marginLeft="55dp"/>
 
         <TextView
             android:layout_width="wrap_content"
@@ -51,17 +51,7 @@
             android:textStyle="italic"
             />
 
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="80dp"
-            android:layout_marginTop="5dp"
-            android:text="2.Shreshtha Singh(16103266)"
-            android:textColor="@color/colorPrimaryDark"
-            android:textSize="20dp"
-            android:textStyle="italic"
-            />
-
+    
     </LinearLayout>
 
 </RelativeLayout>
