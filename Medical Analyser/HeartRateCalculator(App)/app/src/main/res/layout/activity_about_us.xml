@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".User.AboutUsActivity"
+
+    android:background="#FFDAB9">
+
+    <TextView
+        android:id="@+id/devText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:text="Developer :"
+        android:textColor="#000000"
+        android:textSize="30dp"
+        android:textStyle="bold"/>
+
+    <LinearLayout
+        android:id="@+id/layout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="211dp"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <!--<ImageView
+            android:id="@+id/person_1_img"
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            android:layout_alignStart="@+id/layout1"
+            android:adjustViewBounds="true"
+            android:background="@drawable/developer1"
+            android:minWidth="1dp"
+            android:minHeight="1dp"
+            android:layout_marginLeft="55dp"/>-->
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="80dp"
+            android:layout_marginTop="5dp"
+            android:text="1. Palak Arora(16103046)"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="20dp"
+            android:textStyle="italic"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="80dp"
+            android:layout_marginTop="5dp"
+            android:text="2.Shreshtha Singh(16103266)"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="20dp"
+            android:textStyle="italic"
+            />
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".User.SymptomsActivity"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/TextId"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Enter Your Symptoms :"
+            android:textStyle="bold"
+            android:textSize="30dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true" />
+
+        <Spinner
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/spinnerId1"
+            android:layout_below="@+id/TextId"
+            android:layout_marginTop="20dp">
+        </Spinner>
+
+        <Spinner
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/spinnerId2"
+            android:layout_below="@+id/spinnerId1"
+            android:layout_marginTop="20dp">
+        </Spinner>
+
+        <Spinner
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/spinnerId3"
+            android:layout_below="@+id/spinnerId2"
+            android:layout_marginTop="20dp">
+        </Spinner>
+
+        <Spinner
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/spinnerId4"
+            android:layout_below="@+id/spinnerId3"
+            android:layout_marginTop="20dp">
+        </Spinner>
+
+        <Spinner
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/spinnerId5"
+            android:layout_below="@+id/spinnerId4"
+            android:layout_marginTop="20dp">
+        </Spinner>
+
+        <Spinner
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/spinnerId6"
+            android:layout_below="@+id/spinnerId5"
+            android:layout_marginTop="20dp">
+        </Spinner>
+
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/spinnerId6"
+            android:layout_marginLeft="120dp"
+            android:layout_marginTop="80dp"
+            android:shadowColor="#A8A8A8"
+            android:shadowRadius="5"
+            android:background="@drawable/button_design"
+            android:text="I can predict your Disease"
+            android:textStyle="italic"
+            android:id="@+id/disease_pred"/>
+    </RelativeLayout>
+
+
+</ScrollView>

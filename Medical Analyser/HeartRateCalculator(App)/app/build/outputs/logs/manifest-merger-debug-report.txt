@@ -1,0 +1,186 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:2:1-52:12
+MERGED from [com.android.support:design:27.0.2] /Users/aroras/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/003bc45bdd65a31608dcb55d9c9c0eef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] /Users/aroras/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/dfeed2ae0f2884dbf5446b7afb693817/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/aroras/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/2bbffb326868672a525aa1ef7c5bf7dc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/aroras/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/dfd6d0873c5df2002c66bae9056732ff/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/aroras/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/8c1798b7418294cb7a738096c8db4b32/AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/aroras/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.13.1.aar/19b341860405e72f8f511523009c2b84/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/aroras/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/8b03395e15d4e39aaf7efb7fd668a3e2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/aroras/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/ae48dcaaf7940a451cce5ca5c4bedffb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/aroras/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/1555bb178cb592624b1fcae957da1f08/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/aroras/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/f69fa98af20ee48db2a9ae3fc49e6b20/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/aroras/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/02506be35d3af60bd04895673b470f54/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/aroras/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/882c8b1af298a3ee061d1d89e8102e1a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] /Users/aroras/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/d17d7e462b0c9adece19401edb1de8cc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/aroras/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/64dc7e28c98b45c2c844df74a91fdc20/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/aroras/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/e75aada58a7ce98ba006a838329c02af/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:2:1-52:12
+	package
+		ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:7:5-60
+	android:name
+		ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:7:19-57
+uses-feature#android.hardware.camera.flash
+ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:8:19-63
+uses-permission#android.permission.CAMERA
+ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:10:22-62
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:11:22-65
+uses-permission#android.permission.INTERNET
+ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:12:22-64
+application
+ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:14:5-50:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/aroras/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/dfd6d0873c5df2002c66bae9056732ff/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/aroras/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/dfd6d0873c5df2002c66bae9056732ff/AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/aroras/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.13.1.aar/19b341860405e72f8f511523009c2b84/AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/aroras/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.13.1.aar/19b341860405e72f8f511523009c2b84/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:17:9-41
+	android:hardwareAccelerated
+		ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:15:9-43
+	android:icon
+		ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:16:9-45
+	android:theme
+		ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:18:9-40
+activity#com.heart_rate.app.User.TreatmentCrawlerActivity
+ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:19:9-76
+	android:name
+		ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:19:19-64
+activity#com.heart_rate.app.User.DiseasePredictionActivity
+ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:20:9-68
+	android:name
+		ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:20:19-65
+activity#com.heart_rate.app.User.AboutUsActivity
+ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:21:9-58
+	android:name
+		ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:21:19-55
+activity#com.heart_rate.app.User.SymptomsActivity
+ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:22:9-59
+	android:name
+		ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:22:19-56
+activity#com.heart_rate.app.User.FirstActivity
+ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:23:9-32:20
+	android:screenOrientation
+		ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:26:13-49
+	android:label
+		ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:24:13-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:30:27-74
+activity#com.heart_rate.app.MainActivity
+ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:33:9-50
+	android:name
+		ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:33:19-47
+activity#com.heart_rate.app.HeartbeatReference
+ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:34:9-37:52
+	android:screenOrientation
+		ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:37:13-49
+	android:label
+		ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:36:13-54
+	android:name
+		ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:35:13-47
+activity#com.heart_rate.app.Reference
+ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:38:9-41:52
+	android:screenOrientation
+		ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:41:13-49
+	android:label
+		ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:40:13-54
+	android:name
+		ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:39:13-38
+activity#com.heart_rate.app.HeartBeatCalculator
+ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:42:9-45:52
+	android:screenOrientation
+		ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:45:13-49
+	android:label
+		ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:44:13-49
+	android:name
+		ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:43:13-48
+activity#com.heart_rate.app.History
+ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:46:9-49:52
+	android:screenOrientation
+		ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:49:13-49
+	android:label
+		ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:48:13-36
+	android:name
+		ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml:47:13-36
+uses-sdk
+INJECTED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml
+INJECTED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.0.2] /Users/aroras/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/003bc45bdd65a31608dcb55d9c9c0eef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] /Users/aroras/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/003bc45bdd65a31608dcb55d9c9c0eef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/aroras/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/dfeed2ae0f2884dbf5446b7afb693817/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/aroras/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/dfeed2ae0f2884dbf5446b7afb693817/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/aroras/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/2bbffb326868672a525aa1ef7c5bf7dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/aroras/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/2bbffb326868672a525aa1ef7c5bf7dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/aroras/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/dfd6d0873c5df2002c66bae9056732ff/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/aroras/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/dfd6d0873c5df2002c66bae9056732ff/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/aroras/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/8c1798b7418294cb7a738096c8db4b32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/aroras/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/8c1798b7418294cb7a738096c8db4b32/AndroidManifest.xml:20:5-44
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/aroras/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.13.1.aar/19b341860405e72f8f511523009c2b84/AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/aroras/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.13.1.aar/19b341860405e72f8f511523009c2b84/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/aroras/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/8b03395e15d4e39aaf7efb7fd668a3e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/aroras/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/8b03395e15d4e39aaf7efb7fd668a3e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/aroras/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/ae48dcaaf7940a451cce5ca5c4bedffb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/aroras/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/ae48dcaaf7940a451cce5ca5c4bedffb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/aroras/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/1555bb178cb592624b1fcae957da1f08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/aroras/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/1555bb178cb592624b1fcae957da1f08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/aroras/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/f69fa98af20ee48db2a9ae3fc49e6b20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/aroras/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/f69fa98af20ee48db2a9ae3fc49e6b20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/aroras/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/02506be35d3af60bd04895673b470f54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/aroras/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/02506be35d3af60bd04895673b470f54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/aroras/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/882c8b1af298a3ee061d1d89e8102e1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/aroras/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/882c8b1af298a3ee061d1d89e8102e1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /Users/aroras/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/d17d7e462b0c9adece19401edb1de8cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /Users/aroras/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/d17d7e462b0c9adece19401edb1de8cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/aroras/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/64dc7e28c98b45c2c844df74a91fdc20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/aroras/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/64dc7e28c98b45c2c844df74a91fdc20/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/aroras/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/e75aada58a7ce98ba006a838329c02af/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/aroras/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/e75aada58a7ce98ba006a838329c02af/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml
+INJECTED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aroras/Desktop/HeartRateCalculator/app/src/main/AndroidManifest.xml

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Medical Analyser</string>
+    <string name="rate">Rate Us</string>
+    <string name="contact">Contact Us</string>
+    <string name="contno">Email: \n\tpalakarora1401@gmail.com \n\t singhshreshth@gmail.com  </string>
+    <string name="Instructions">Instructions</string>
+    <string name="instruct">1. Put Your Index Finger on camera.\n2. Don\'t press tightly on camera. \n3. Keep your finger for 30 seconds.</string>
+    <string name="dev">Developed By :\n\tPalak Arora (Github: palakarora14) \n\tShreshth Sharma (Github: )</string>
+    <string name="dev_title">Developers</string>
+    <string name="ref">Age 20-29:\n\t</string>
+    <string name="timer">Calculating in</string>
+</resources>

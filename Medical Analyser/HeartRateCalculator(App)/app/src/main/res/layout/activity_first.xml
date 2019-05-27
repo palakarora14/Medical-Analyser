@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".User.FirstActivity"
+    android:background="#B94F74">
+
+    <Button
+        android:id="@+id/heart_rate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Calculate Heart Rate"
+        android:layout_marginTop="80dp"
+        android:shadowColor="#A8A8A8"
+        android:shadowRadius="5"
+        android:background="@drawable/button_design"
+        android:layout_marginLeft="100dp"/>
+
+    <Button
+        android:id="@+id/symptoms"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/heart_rate"
+        android:layout_marginTop="183dp"
+        android:shadowColor="#A8A8A8"
+        android:shadowRadius="5"
+        android:background="@drawable/button_design"
+        android:text="Enter Symptoms"
+        android:layout_marginLeft="120dp"/>
+
+    <Button
+        android:id="@+id/developers"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/symptoms"
+        android:layout_marginTop="166dp"
+        android:shadowColor="#A8A8A8"
+        android:shadowRadius="5"
+        android:background="@drawable/button_design"
+        android:text="Developer"
+        android:layout_marginLeft="135dp"/>
+
+</RelativeLayout>
