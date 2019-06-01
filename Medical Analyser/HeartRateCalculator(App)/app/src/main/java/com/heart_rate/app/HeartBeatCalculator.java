@@ -96,7 +96,7 @@ alertDialog.show();
         context = this;
 
         PowerManager pm = (PowerManager) getSystemService(Context.POWER_SERVICE);
-        wakeLock = pm.newWakeLock(PowerManager.FULL_WAKE_LOCK, "DoNotDimScreen");
+        wakeLock = pm.newWakeLock(PowerManager.FULL_WAKE_LOCK, "AppName:DoNotDimScreen");
 
         //ONCLICKLISTENER SETUP
         image.setOnClickListener(this);
@@ -309,7 +309,7 @@ alertDialog.show();
 
     //STATIC METHODS
     public static void createToast(CharSequence message){
-        Toast.makeText(context, message, Toast.LENGTH_SHORT).show();
+        Toast.makeText(context, message, Toast.LENGTH_LONG).show();
     }
     private static void insertIntoDatabase(String heartbeat){
         Intent intent = new Intent(context, History.class);
