@@ -16,6 +16,8 @@ public class TreatmentCrawlerActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_treatment_crawler);
+        
+        Toast.makeText(getApplicationContext(),"Please wait , This may take some time ! ",Toast.LENGTH_LONG).show();
 
         Bundle bundle=new Bundle();
         bundle=getIntent().getExtras();
