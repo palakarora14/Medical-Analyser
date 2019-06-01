@@ -248,6 +248,8 @@ public class SymptomsActivity extends Activity {
             }
         });
 
+        Toast.makeText(getApplicationContext(),"Select Your Symptoms and then click the Button for prediction",Toast.LENGTH_LONG).show();
+        
         button=findViewById(R.id.disease_pred);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
