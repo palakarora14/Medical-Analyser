@@ -84,6 +84,8 @@ public class DiseasePredictionActivity extends AppCompatActivity {
         }catch (Exception ex){
             ex.printStackTrace();
         }
+        
+        Toast.makeText(getApplicationContext(),"Click Predict disease",Toast.LENGTH_LONG).show();
 
         btnPredict.setOnClickListener(new View.OnClickListener() {
             @Override
